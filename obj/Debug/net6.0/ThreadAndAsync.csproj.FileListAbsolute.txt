@@ -1,0 +1,15 @@
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\Dotnet6App\ThreadAndAsync\bin\Debug\net6.0\ThreadAndAsync.exe
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\Dotnet6App\ThreadAndAsync\bin\Debug\net6.0\ThreadAndAsync.deps.json
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\Dotnet6App\ThreadAndAsync\bin\Debug\net6.0\ThreadAndAsync.runtimeconfig.json
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\Dotnet6App\ThreadAndAsync\bin\Debug\net6.0\ThreadAndAsync.dll
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\Dotnet6App\ThreadAndAsync\bin\Debug\net6.0\ref\ThreadAndAsync.dll
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\Dotnet6App\ThreadAndAsync\bin\Debug\net6.0\ThreadAndAsync.pdb
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\Dotnet6App\ThreadAndAsync\obj\Debug\net6.0\ThreadAndAsync.csproj.AssemblyReference.cache
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\Dotnet6App\ThreadAndAsync\obj\Debug\net6.0\ThreadAndAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\Dotnet6App\ThreadAndAsync\obj\Debug\net6.0\ThreadAndAsync.AssemblyInfoInputs.cache
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\Dotnet6App\ThreadAndAsync\obj\Debug\net6.0\ThreadAndAsync.AssemblyInfo.cs
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\Dotnet6App\ThreadAndAsync\obj\Debug\net6.0\ThreadAndAsync.csproj.CoreCompileInputs.cache
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\Dotnet6App\ThreadAndAsync\obj\Debug\net6.0\ThreadAndAsync.dll
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\Dotnet6App\ThreadAndAsync\obj\Debug\net6.0\ref\ThreadAndAsync.dll
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\Dotnet6App\ThreadAndAsync\obj\Debug\net6.0\ThreadAndAsync.pdb
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\Dotnet6App\ThreadAndAsync\obj\Debug\net6.0\ThreadAndAsync.genruntimeconfig.cache
